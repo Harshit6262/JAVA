@@ -14,6 +14,6 @@ public class LargestInArr {
         int nums [] = {1, 2, 6, 3, 5};
         int large = getLargest(nums);
         System.out.println("largest num is : " + large);
-
+          //   Time Complexity : O(n)
     }
 }
