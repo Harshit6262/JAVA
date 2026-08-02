@@ -22,3 +22,4 @@ public class BinarySearch {
         System.out.println(" Index for key is : " + dictionary(nums, key));
     }
 }
+//     Time Complexity   :  O(log n)
