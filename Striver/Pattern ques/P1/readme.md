@@ -1,6 +1,19 @@
 Pattern-1: Rectangular Star Pattern
 
 Problem Statement: Given an integer N, print the following pattern.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](image.png)
 
 Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below: 
@@ -76,6 +89,7 @@ Code
         }
     }
 
+git push
 
 Complexity Analysis
      
