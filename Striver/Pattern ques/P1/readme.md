@@ -19,41 +19,41 @@ Problem Statement: Given an integer N, print the following pattern.
 Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
 
 
-    ```text
+    
        *****
        *****
        *****
        *****
        *****
-    ```
+    
 
 Print the pattern in the function given to you.
 
 Example 1
-     Input: n = 4
+    Input: n = 4
 
-     Output:
-
-
+    Output:
 
 
 
 
 
-     ![alt text](image-1.png)
+
+
+    ![alt text](image-1.png)
 
 Example 2
-     Input: n = 2
+    Input: n = 2
 
-     Output:
-
-
+    Output:
 
 
 
 
 
-     ![alt text](image-2.png)
+
+
+    ![alt text](image-2.png)
 
 
 Constraints :  1 <= n <= 100
