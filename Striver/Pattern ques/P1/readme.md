@@ -16,31 +16,49 @@ Problem Statement: Given an integer N, print the following pattern.
 
 ![alt text](image.png)
 
-Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below: 
-  *****
+Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
 
-  *****
 
-  *****
+      *****
 
-  *****
+      *****
 
-  *****
+      *****
+
+      *****
+
+      *****
 
 Print the pattern in the function given to you.
 
 Example 1
      Input: n = 4
+
      Output:
+
+
+
+
+
+
+
      ![alt text](image-1.png)
 
 Example 2
      Input: n = 2
+
      Output:
+
+
+
+
+
+
+
      ![alt text](image-2.png)
 
 
-  Constraints :  1 <= n <= 100
+Constraints :  1 <= n <= 100
    
 
 
