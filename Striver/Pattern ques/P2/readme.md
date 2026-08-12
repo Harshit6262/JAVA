@@ -114,7 +114,8 @@ Code
 
 
 
-Complexity Analysis  
-     Time Complexity: O(N2), Outer loop runs N times, and inner loop runs up to N stars cumulatively.
+Complexity Analysis 
+ 
+         Time Complexity: O(N2), Outer loop runs N times, and inner loop runs up to N stars cumulatively.
 
-     Space Complexity: O(1), No extra space is used apart from loop counters.
+         Space Complexity: O(1), No extra space is used apart from loop counters.
