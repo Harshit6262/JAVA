@@ -1,10 +1,10 @@
-public class p1 {
-    // Function to print a square pattern of stars
-    public void pattern1(int n){
+public class p5 {
+    // Function to print Inverted Right Pyramid
+    public void pattern5(int n){
         // Outer loop to handle rows
-        for(int i = 0; i < n; i++){
+        for (int i = 0; i < n; i++){
             // Inner loop to handle columns for each row
-            for(int j = 0; j < n; j++){
+            for(int j = n; j > i; j--){
                 // Print a star followed by a space
                 System.out.print("* ");
             }
@@ -12,10 +12,10 @@ public class p1 {
             System.out.println();
         }
     }
-    public static void main(String [] args){
-        // Create object of p1 class
-         p1 pattern = new p1();
+    public static void main (String [] args){
+        // Create object of p5 class
+        p5 pattern = new p5();
         int n = 5; // Set the size of the square (5x5)
-        pattern.pattern1(n); // Call the function to print the pattern
+        pattern.pattern5(n); // Call the function to print the pattern
     }
 }

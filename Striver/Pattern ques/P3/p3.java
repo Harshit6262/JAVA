@@ -13,6 +13,7 @@ public class p3 {
         }
     }
     public static void main(String [] args){
+        // Create object of p3 class
         p3 pattern = new p3();
         int n = 5; // Set the size of the pattern
         pattern.pattern3(n); // Call the function to print the pattern

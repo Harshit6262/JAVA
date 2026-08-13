@@ -14,6 +14,7 @@ public class p2 {
 
     }
     public static void main (String []  args){
+        // Create object of p2 class
         p2 pattern = new p2();
         int n = 5; // Set the size of the pattern
         pattern.pattern2(n); // Call the function to print the pattern
