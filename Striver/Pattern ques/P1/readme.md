@@ -73,7 +73,7 @@ Approach
             After each inner loop completes, move to the next line.
 
 
-Code 
+Code
 
     class Solution {
 
