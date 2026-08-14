@@ -15,7 +15,7 @@ public class p5 {
     public static void main (String [] args){
         // Create object of p5 class
         p5 pattern = new p5();
-        int n = 5; // Set the size of the square (5x5)
+        int n = 5; // Set the size of the pattern
         pattern.pattern5(n); // Call the function to print the pattern
     }
 }
