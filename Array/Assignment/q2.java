@@ -62,4 +62,4 @@ public class q2 {
     }
 }
 
-The time complexity is O(log n) because we eliminate half of the search space in every iteration, and the space complexity is O(1) because we use only constant extra space
+// The time complexity is O(log n) because we eliminate half of the search space in every iteration, and the space complexity is O(1) because we use only constant extra space
